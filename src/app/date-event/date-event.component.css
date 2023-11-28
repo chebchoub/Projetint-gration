@@ -1,0 +1,24 @@
+
+  
+  
+  .date-picker-container {
+   
+    padding: 20px;
+    text-align: center;
+    /* Supprimer la propriété background-color pour retirer l'arrière-plan */
+    margin-top: 100px;
+  }
+  .date-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  .date-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+    width: 300px; /* Largeur augmentée à 300px */
+  }
+  
